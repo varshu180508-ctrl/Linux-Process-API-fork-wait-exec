@@ -134,9 +134,6 @@ int main()
 
 
 
-<img width="284" height="296" alt="Screenshot 2026-08-03 144834" src="https://github.com/user-attachments/assets/80d9b3d5-0dc6-44d2-a4cf-2857ef825574" />
-
-
 
 
 
