@@ -44,13 +44,6 @@ int main(){
 
 
 
-
-
-
-
-
-
-
 ##OUTPUT
 
 <img width="217" height="176" alt="Screenshot 2026-08-03 144432" src="https://github.com/user-attachments/assets/07ebece2-be21-4c58-945e-b10a033bd69d" />
