@@ -127,9 +127,26 @@ int main()
 
 <img width="367" height="287" alt="Screenshot 2026-08-03 144808" src="https://github.com/user-attachments/assets/5ebadeec-7684-434f-b1fe-7eca6a9e54ab" />
 
+
+
+
+
+
+
+
 <img width="284" height="296" alt="Screenshot 2026-08-03 144834" src="https://github.com/user-attachments/assets/80d9b3d5-0dc6-44d2-a4cf-2857ef825574" />
 
+
+
+
+
+
+
+
+
 <img width="392" height="281" alt="Screenshot 2026-08-03 144846" src="https://github.com/user-attachments/assets/a8e0ec97-4f6f-4c8c-947a-3f01b37879b0" />
+
+
 
 
 
